@@ -47,5 +47,8 @@ Here you will find some of my projects involving:
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioWithC&show_icons=true&theme=tokyonight"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWithC&layout=compact&theme=tokyonight"/>
 </p>
+<details>
+<summary>???</summary>
 
 <img align=center src="https://files.catbox.moe/9zj2q5.png">
+</details>
