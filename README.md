@@ -26,6 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/vinceliuice/Tela-icon-theme/77863b1492d7f489b3f2409fe27c520e26212a8f/src/scalable/apps/pgadmin.svg" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" height="40"/>
 </p>
 
 ---
