@@ -1,6 +1,6 @@
-<img width="100%" src="https://i.pinimg.com/736x/35/5b/ae/355baee72b25fe087de5b9168af8a252.jpg"/>
+<img width="100%" src="https://i.pinimg.com/736x/4d/e1/fc/4de1fc0725ebb4944f3b6f5214a8854f.jpg"/>
 
-# 🔪 Hello! I'm Caio
+# 🩸 Hello! I'm Caio
 
 💻 **Data Science student**  
 📊 Interested in **Data Analysis, AI and Programming**  
@@ -51,5 +51,6 @@ Here you will find some of my projects involving:
 <details>
 <summary>???</summary>
 
-<img align=center src="https://files.catbox.moe/9zj2q5.png">
+<img align=center src="https://i.pinimg.com/736x/96/3c/55/963c5546295c629e4ef69f9f0e88ba2a.jpg">
+
 </details>
