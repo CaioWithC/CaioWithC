@@ -45,8 +45,8 @@ Here you will find some of my projects involving:
 ## 📈 GitHub Stats
 
 <p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioWithC&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWithC&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-stats-extended.vercel.app/api?username=CaioWithC&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioWithC&layout=compact&theme=tokyonight"/>
 </p>
 <details>
 <summary>???</summary>
